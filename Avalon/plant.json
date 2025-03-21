@@ -376,60 +376,6 @@
         },
         {
             "id": 8,
-            "common_name": "Neem",
-            "scientific_name": "Azadirachta indica",
-            "description": "Neem is a fast-growing tree with wide, spreading branches and dense, rounded crown. It can grow up to 15-20 meters tall and has serrated leaves and white, fragrant flowers. The trunk is relatively short with rough, fissured bark. The leaves are pinnate, 20-40 cm long, with 20-30 medium to dark green leaflets. Flowers are small, white, and arranged in drooping panicles. The fruit is a smooth, olive-like drupe that varies in shape from elongate to roundish and contains a sweet pulp and one seed. Neem is known as the 'village pharmacy' in India due to its numerous medicinal applications. The Sanskrit name 'Nimba' means 'bestower of good health'. Neem trees are extremely hardy and can survive in poor soil conditions and drought.",
-            "medicinal_uses": [
-                "Treats skin disorders",
-                "Dental care",
-                "Anti-parasitic",
-                "Blood purifier",
-                "Liver protection",
-                "Anti-diabetic properties",
-                "Contraceptive effects",
-                "Insect repellent"
-            ],
-            "medical_description": "Neem contains over 140 biologically active compounds, with azadirachtin being the most studied for its insecticidal and medicinal properties. Clinical studies confirm neem's efficacy in treating various skin conditions through its antimicrobial, anti-inflammatory, and immunomodulatory effects. Research demonstrates significant activity against dermatophytes, Candida, and bacteria responsible for acne and other skin infections. Neem's hepatoprotective properties are attributed to its ability to reduce lipid peroxidation and enhance antioxidant enzyme activity in the liver. Studies show neem can lower blood glucose levels by enhancing insulin receptor sensitivity and inhibiting intestinal glucosidase. Its contraceptive effects have been documented in both males and females, with potential for development as a non-hormonal contraceptive. Neem oil exhibits broad-spectrum activity against malaria parasites, including drug-resistant strains. Dental research confirms its effectiveness in reducing plaque formation and treating gingivitis comparable to chlorhexidine.",
-            "growing_conditions": {
-                "soil": "Well-drained, even poor and stony soils with pH 6.2-7.0",
-                "climate": "Tropical to subtropical",
-                "temperature": "20-40°C (optimal 25-35°C)",
-                "water_requirements": "Low, drought-tolerant (500-1200 mm rainfall annually)",
-                "sunlight": "Full sun"
-            },
-            "how_to_grow": "Neem can be propagated through seeds, root suckers, or tissue culture. For seed propagation, collect fresh, ripe fruits, remove the pulp, and dry in shade for 3-4 days. Sow seeds 1-2 cm deep in well-draining soil. Germination occurs within 1-2 weeks. Seedlings are ready for transplanting when they reach 30-60 cm height, typically after 3-4 months. Space trees 5-8 meters apart. Young trees require regular watering until established, after which they become highly drought-tolerant. Apply organic compost during planting and annually thereafter. Prune to maintain shape and remove dead branches. Neem is relatively pest-resistant but may be affected by scale insects and mealy bugs in some regions. Trees begin flowering and fruiting after 3-5 years. For medicinal use, leaves can be harvested year-round, while fruits are collected when ripe, typically in summer.",
-            "native_regions": [
-                "Indian subcontinent",
-                "Southeast Asia",
-                "Parts of Africa",
-                "Middle East"
-            ],
-            "related_diseases_treated": [
-                "Skin infections",
-                "Dental problems",
-                "Malaria",
-                "Diabetes",
-                "Liver disorders",
-                "Intestinal worms",
-                "Acne and eczema",
-                "Viral diseases (chicken pox, warts)"
-            ],
-            "active_compounds": [
-                "Azadirachtin",
-                "Nimbin",
-                "Nimbidin",
-                "Quercetin",
-                "Salannin",
-                "Gedunin",
-                "Mahmoodin",
-                "Gallic acid"
-            ],
-            "cultivation_period": "3-5 years for first harvest, lives for 150-200 years",
-            "photo_url": "https://www.lilplants.com/wp-content/uploads/2017/08/Neem-Tree-Plant-2-1-600x600.jpg",
-            "traditional_preparation": "Leaves used in decoction, oil extracted from seeds, bark used in powdered form. For skin conditions, neem paste is prepared by grinding fresh leaves with water. For dental care, twigs are used as natural toothbrushes. Neem tea is made by boiling 10-15 leaves in water for 10-15 minutes. For internal parasites, 1-2 grams of dried leaf powder is taken with water. In Ayurveda, neem is often combined with turmeric for skin conditions or with bitter herbs like guduchi for purifying blood."
-        },
-        {
-            "id": 9,
             "common_name": "Brahmi",
             "scientific_name": "Bacopa monnieri",
             "description": "Brahmi is a creeping herb with small, succulent leaves and white or purple flowers. It typically grows in wetlands and muddy shores. The plant spreads horizontally with multiple branches, forming mats on the surface. Leaves are oblong, 1-2 cm long, arranged oppositely on the stem, and are thick with a smooth texture. The flowers are small (about 1 cm in diameter), white to pale blue with five petals, and appear singly at leaf axils. Brahmi is often confused with Centella asiatica (Gotu Kola), which is also sometimes called Brahmi in northern India. The name 'Brahmi' is derived from 'Brahma', the creator god in Hinduism, reflecting its association with knowledge and cognitive enhancement. It has been used in Ayurvedic medicine for over 3,000 years, particularly for improving memory and treating cognitive disorders.",
@@ -481,6 +427,60 @@
             "cultivation_period": "Perennial, harvestable within 3-4 months after planting",
             "photo_url": "https://www.greendna.in/cdn/shop/products/brahmileaves_1200x1200.jpg?v=1592237079",
             "traditional_preparation": "Fresh leaves consumed, dried powder mixed with honey or ghee, or prepared as juice. For cognitive enhancement, 5-10 grams of fresh leaves can be consumed daily or 300-600 mg of dried powder taken with warm milk. Brahmi ghrita is a traditional Ayurvedic preparation made by cooking Brahmi with ghee (clarified butter). Brahmi oil is prepared by infusing the herb in a base oil like coconut or sesame for external application on the scalp to promote mental clarity."
+        },
+        {
+            "id": 9,
+            "common_name": "Neem",
+            "scientific_name": "Azadirachta indica",
+            "description": "Neem is a fast-growing tree with wide, spreading branches and dense, rounded crown. It can grow up to 15-20 meters tall and has serrated leaves and white, fragrant flowers. The trunk is relatively short with rough, fissured bark. The leaves are pinnate, 20-40 cm long, with 20-30 medium to dark green leaflets. Flowers are small, white, and arranged in drooping panicles. The fruit is a smooth, olive-like drupe that varies in shape from elongate to roundish and contains a sweet pulp and one seed. Neem is known as the 'village pharmacy' in India due to its numerous medicinal applications. The Sanskrit name 'Nimba' means 'bestower of good health'. Neem trees are extremely hardy and can survive in poor soil conditions and drought.",
+            "medicinal_uses": [
+                "Treats skin disorders",
+                "Dental care",
+                "Anti-parasitic",
+                "Blood purifier",
+                "Liver protection",
+                "Anti-diabetic properties",
+                "Contraceptive effects",
+                "Insect repellent"
+            ],
+            "medical_description": "Neem contains over 140 biologically active compounds, with azadirachtin being the most studied for its insecticidal and medicinal properties. Clinical studies confirm neem's efficacy in treating various skin conditions through its antimicrobial, anti-inflammatory, and immunomodulatory effects. Research demonstrates significant activity against dermatophytes, Candida, and bacteria responsible for acne and other skin infections. Neem's hepatoprotective properties are attributed to its ability to reduce lipid peroxidation and enhance antioxidant enzyme activity in the liver. Studies show neem can lower blood glucose levels by enhancing insulin receptor sensitivity and inhibiting intestinal glucosidase. Its contraceptive effects have been documented in both males and females, with potential for development as a non-hormonal contraceptive. Neem oil exhibits broad-spectrum activity against malaria parasites, including drug-resistant strains. Dental research confirms its effectiveness in reducing plaque formation and treating gingivitis comparable to chlorhexidine.",
+            "growing_conditions": {
+                "soil": "Well-drained, even poor and stony soils with pH 6.2-7.0",
+                "climate": "Tropical to subtropical",
+                "temperature": "20-40°C (optimal 25-35°C)",
+                "water_requirements": "Low, drought-tolerant (500-1200 mm rainfall annually)",
+                "sunlight": "Full sun"
+            },
+            "how_to_grow": "Neem can be propagated through seeds, root suckers, or tissue culture. For seed propagation, collect fresh, ripe fruits, remove the pulp, and dry in shade for 3-4 days. Sow seeds 1-2 cm deep in well-draining soil. Germination occurs within 1-2 weeks. Seedlings are ready for transplanting when they reach 30-60 cm height, typically after 3-4 months. Space trees 5-8 meters apart. Young trees require regular watering until established, after which they become highly drought-tolerant. Apply organic compost during planting and annually thereafter. Prune to maintain shape and remove dead branches. Neem is relatively pest-resistant but may be affected by scale insects and mealy bugs in some regions. Trees begin flowering and fruiting after 3-5 years. For medicinal use, leaves can be harvested year-round, while fruits are collected when ripe, typically in summer.",
+            "native_regions": [
+                "Indian subcontinent",
+                "Southeast Asia",
+                "Parts of Africa",
+                "Middle East"
+            ],
+            "related_diseases_treated": [
+                "Skin infections",
+                "Dental problems",
+                "Malaria",
+                "Diabetes",
+                "Liver disorders",
+                "Intestinal worms",
+                "Acne and eczema",
+                "Viral diseases (chicken pox, warts)"
+            ],
+            "active_compounds": [
+                "Azadirachtin",
+                "Nimbin",
+                "Nimbidin",
+                "Quercetin",
+                "Salannin",
+                "Gedunin",
+                "Mahmoodin",
+                "Gallic acid"
+            ],
+            "cultivation_period": "3-5 years for first harvest, lives for 150-200 years",
+            "photo_url": "https://www.lilplants.com/wp-content/uploads/2017/08/Neem-Tree-Plant-2-1-600x600.jpg",
+            "traditional_preparation": "Leaves used in decoction, oil extracted from seeds, bark used in powdered form. For skin conditions, neem paste is prepared by grinding fresh leaves with water. For dental care, twigs are used as natural toothbrushes. Neem tea is made by boiling 10-15 leaves in water for 10-15 minutes. For internal parasites, 1-2 grams of dried leaf powder is taken with water. In Ayurveda, neem is often combined with turmeric for skin conditions or with bitter herbs like guduchi for purifying blood."
         },
         {
             "id": 10,
